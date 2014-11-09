@@ -1,16 +1,13 @@
 # 5374について
-<<<<<<< HEAD
 For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 =======
 
->>>>>>> ee54839836e9a896fead09928ea6fa01d1ee9190
 ##「いつ、どのゴミが収集されているのか？」
 
 ゴミの問題はどの地域でも深刻になりつつあります。
  [Code for Kanazawa](http://codeforkanazawa.org/)
 では、先ずは正しいゴミの捨て方に注目しました。例えばお引っ越しをされた場合、このアプリを使えばすぐに分かるように、目的と使い方をとてもシンプルにデザインしました。
 
-<<<<<<< HEAD
 ## ブランチの運用について
 
 * **master**: ローカライズをする場合にはこのブランチをforkしてください (2014/5/7 updated v1.1)
@@ -33,11 +30,9 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 * **捨てる事が可能なゴミ**: ゴミのジャンルをタップすると、捨てることが可能なゴミの一覧を見ることができます。
 
 * **設定**: お住まいの地域を選択することで、ゴミ収集日が自動的に更新されます。今後スマートフォンのGPSから位置情報を取得する機能を追加する予定です。
->>>>>>> ee54839836e9a896fead09928ea6fa01d1ee9190
 
 各地域へのローカライズについては[LOCALIZE.md](LOCALIZE.md)を参照するようにしてください。
 
-<<<<<<< HEAD
 
 
 
@@ -46,7 +41,6 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 金沢市が公開しているオープンデータをもとにしています。
 
 
->>>>>>> ee54839836e9a896fead09928ea6fa01d1ee9190
 ## 開発チームとライセンスについて
 - 小野 祐貴(Yuki ONO)　Developer
 - 五十川 員申(Kazunobu IKAGAWA)　Developer
